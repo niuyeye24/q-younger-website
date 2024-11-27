@@ -1,0 +1,240 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00a4ff;
+}
+
+body {
+    width: 100vw;
+    height: 800px;
+    background-image: url(background.png);
+    background-size: cover;
+}
+
+.title {
+    float: left;
+    width: 1300px;
+    height: 162px;
+}
+
+.title h1 {
+    float: left;
+    width: 202px;
+    height: 57px;
+    font-family: 宋体;
+    font-weight: 400;
+    text-align: center;
+    line-height: 57px;
+    color: #ffffff;
+}
+
+.title .welcome {
+    float: left;
+    width: 478px;
+    height: 157px;
+}
+
+.title .welcome img {
+    width: 100%;
+    height: 100%;
+}
+
+.title .border {
+    float: left;
+    width: 843px;
+    height: 3px;
+    border-bottom: 3px solid #ffffff;
+}
+
+.function {
+    float: left;
+    width: 700px;
+    height: 480px;
+}
+
+.function .k {
+    width: 279px;
+    height: 97px;
+    background-color: #fff;
+    border-radius: 37px;
+}
+
+.function .wenjuan {
+    float: left;
+    margin-top: 112px;
+    margin-left: 47px;
+}
+
+.function .wenjuan .tb {
+    float: left;
+    width: 65px;
+    height: 71px;
+    margin: 13px 21px 0 25px;
+}
+
+.function .wenjuan .tb img {
+    width: 100%;
+    height: 100%;
+}
+
+.function .wenjuan h1 {
+    float: left;
+    width: 150px;
+    height: 57px;
+    line-height: 57px;
+    margin-top: 21px;
+    color: #004aad;
+}
+
+.function .xianshang {
+    float: left;
+    margin-top: 112px;
+    margin-left: 58px;
+}
+
+.function .xianshang .tb {
+    float: left;
+    width: 65px;
+    height: 71px;
+    margin: 13px 21px 0 25px;
+}
+
+.function .xianshang .tb img {
+    width: 100%;
+    height: 100%;
+}
+
+.function .xianshang h1 {
+    float: left;
+    width: 150px;
+    height: 57px;
+    line-height: 57px;
+    margin-top: 21px;
+    color: #004aad;
+}
+
+.function .jiaoyou {
+    float: left;
+    margin-top: 93px;
+    margin-left: 47px;
+}
+
+.function .jiaoyou .tb {
+    float: left;
+    width: 65px;
+    height: 71px;
+    margin: 13px 21px 0 25px;
+}
+
+.function .jiaoyou .tb img {
+    width: 100%;
+    height: 100%;
+}
+
+.function .jiaoyou h1 {
+    float: left;
+    width: 150px;
+    height: 57px;
+    line-height: 57px;
+    margin-top: 21px;
+    color: #004aad;
+}
+
+.function .xinli {
+    float: left;
+    margin-top: 93px;
+    margin-left: 58px;
+}
+
+.function .xinli .tb {
+    float: left;
+    width: 65px;
+    height: 71px;
+    margin: 13px 21px 0 25px;
+}
+
+.function .xinli .tb img {
+    width: 100%;
+    height: 100%;
+}
+
+.function .xinli h1 {
+    float: left;
+    width: 150px;
+    height: 57px;
+    line-height: 57px;
+    margin-top: 21px;
+    color: #004aad;
+}
+
+.bottom {
+    width: 100vw;
+    height: 93px;
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+}
+
+.bottom .piaoliup {
+    float: left;
+    height: 93px;
+    padding: 10px 250px 5px 250px;
+}
+
+.bottom .piaoliup .plp {
+    float: left;
+    position: relative;
+    width: 157px;
+    height: 78px;
+    background-image: url(图标\ 5.png);
+    background-size: cover;
+}
+
+.bottom .piaoliup .plp h1 {
+    float: left;
+    position: absolute;
+    top: 17px;
+    left: 55px;
+    z-index: 1;
+    height: 37px;
+    line-height: 37px;
+    font-family: 宋体;
+    font-size: 25px;
+}
+
+.bottom .wode {
+    float: left;
+    width: 399px;
+    height: 93px;
+    padding: 13px 100px 8px 200px;
+
+}
+
+.bottom .wode .tb_ {
+    float: left;
+    width: 69px;
+    height: 72px;
+
+}
+
+.bottom .wode .tb_ img {
+    width: 100%;
+    height: 100%;
+}
+
+.bottom .wode h1 {
+    float: left;
+    margin-top: 15px;
+    width: 70px;
+    height: 37px;
+    line-height: 37px;
+    font-family: 宋体;
+    font-size: 25px;
+}

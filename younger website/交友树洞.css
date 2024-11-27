@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00a4ff;
+}
+
+body {
+    background: url(交友树洞横板.gif) no-repeat;
+    background-size: cover;
+}
+
+.link a img {
+    float: left;
+    margin-top: 100px;
+    margin-left: 400px;
+    width: 600px;
+    height: 600px;
+    opacity: 0;
+}
